@@ -27,7 +27,7 @@ jobs:
          
 
           - platform: ds918p
-            version: 6.2.2-24922 
+            version: 6.2.4-25556
        
 
     steps:
